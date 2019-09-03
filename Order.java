@@ -2,6 +2,7 @@ package com.zb.entity;
 
 import java.io.Serializable;
 //test 
+//test2222
 public class Order implements Serializable {
     private Integer id;
     private String name;
