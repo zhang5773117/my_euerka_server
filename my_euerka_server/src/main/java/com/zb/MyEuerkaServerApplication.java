@@ -15,6 +15,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 //张三
 //李四
 //张三2
+//sss
 public class MyEuerkaServerApplication {
 
     public static void main(String[] args) {
